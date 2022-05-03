@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Ropa Sans';
+    font-weight: normal;
+  }
+
+ header {
+    background: #FFFFFF;
+     box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.25);
+  }
+
+ h1{
+    margin-top: 0.7%;
+    margin-bottom: 0.7%;
+  }
+
+ .logo {
+    margin-left: 4%;
+    font-family: 'Ropa Sans';
+    color: #777777;
+    display: flex;
+    text-align: center;
+  }
+
+ .textLogo {
+    font-size: 1.2rem;
+    margin-top: 0.7%;
+    margin-left: 0.4%;
+  }
+
+ .loft {
+    margin-top: 0;
+  }
+
+ h2 {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 66%;
+    margin-top: 9%;
+    color: #AAAAAA;
+  }
+
+.vetorImg {
+    margin-left: 83%;
+    cursor: pointer;
+  }
+
+.imgCozinha{
+    margin-left: 4%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    width: 91%;
+    position: relative;
+}
+
+.btnRight{
+    position: absolute;
+    color: white;
+    text-align: center;
+    width: 6.2%;
+    margin-top: -26.8%;
+    margin-left: 87%;
+    cursor: pointer;
+}
+
+.btnLeft{
+    position: absolute;
+    color: white;
+    text-align: center;
+    width: 6.2%;
+    margin-top: -26.8%;
+    margin-left: 5.9%;
+    cursor: pointer;
+}
+
+.vtDireita {
+    position: absolute;
+    color: white;
+    text-align: center;
+    width: 1.7%;
+    margin-top: -25.5%;
+    margin-left: 7.7%;
+    cursor: pointer;
+}
+
+.vtEsquerda{
+    position: absolute;
+    color: white;
+    text-align: center;
+    width: 1.7%;
+    margin-top: -25.5%;
+    margin-left: 89.5%;
+    cursor: pointer;
+}
+
+.img2 {
+    width: 100%;
+  }
+
+.unidadeProduto{
+    display: flex;
+}
+
+.orcamentos{
+    overflow-wrap: break-word;
+    background-color: #EEEEEE;
+    margin-left: 4%;
+    width: 39%;
+    text-align: center;
+}
+
+.orcamentos.Dois{
+    overflow-wrap: break-word;
+    background-color: #EEEEEE;
+    margin-left: 13%;
+    width: 39%;
+    text-align: center;
+}
+
+
+.precoProduto {
+    color: #888888;
+    font-size: 200%;
+    margin-left: 6%;
+}
+
+.statusProduto.Green{
+    margin-top: 2%;
+    background-color: #51D275;
+    color: white;
+    text-align: center;
+    width: 56px;
+    height: 21px;
+    font-size: 150% ;
+    margin-right: 6%;
+    border-radius: 10.5px;
+}
+
+.statusProduto.Orange{
+    margin-top: 2%;
+    background-color: #f0860e;
+    color: white;
+    text-align: center;
+    width: 56px;
+    height: 21px;
+    font-size: 150% ;
+    margin-right: 10%;
+    border-radius: 10.5px;
+}
+
+
+.descricaoProduto{
+    color: #555555;
+    text-align: justify;
+    margin-left: 6.1%;
+    margin-right: 6.1%;
+    margin-bottom: 4%;
+    margin-top: 2.5%;
+}
+
+h4 {
+    display: inline-block;
+    margin-left: 55%;
+}
+
+.style {
+    margin-top: 5%;
+    color: #888888;
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 2%;
+}
+
+.tipo {
+    margin: auto;
+    width: 91%;
+    position: relative;
+    color: white;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.tipo img{
+    width: 100%;
+}
+
+.imgTipo {
+    filter: opacity(60%);
+}
+
+.tipoTexto{
+    font-size: 300%;
+    margin-right: 10%;
+    position: absolute;
+    top: 33%;
+    left: 44%;
+}
+
+.rodape{
+    background-color: #333333;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.textosRodape{
+    margin-right: -70%;
+    margin-top: 2%;
+    color: #FFFFFF;
+}
+
+.imgMapaRodape{
+    margin-top: 11.5%;
+    margin-left: 11.5%;
+    margin-bottom: 11.5%;
+    width: 252px;
+    height: 163px;
+}
+
+
+.infoRodape{
+    font-size: 100%;
+    line-height: 200%;
+}
+
+.redesSociaisRodape{
+    font-size: 100%;
+    margin-top: 13%;
+    margin-right: 16%;
+    color: #FFFFFF;
+}
+
+.redesSociaisRodape img{
+    width: 20px;
+    height: 20px;
+}
+
+.redesSociais {
+    display: flex;
+}
+
+.iconesRedes{
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+
+
+
+
